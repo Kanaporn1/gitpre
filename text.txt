@@ -1,4 +1,8 @@
 Hello P Bam
 Hello P mon
+<<<<<<< HEAD
 
 lololo
+=======
+dddd
+>>>>>>> 577bec978d3d1235ca14697436d7a3ad9deca32d
